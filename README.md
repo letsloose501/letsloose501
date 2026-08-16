@@ -35,18 +35,3 @@
 | **[algorithms](https://github.com/letsloose501/algorithms)** | LeetCode and handbook problems — every solution with the idea behind it and its complexity |
 | **[Python](https://github.com/letsloose501/Python)** | Knowledge base: standard library, data model, interpreter internals |
 | **[Agent-Skills](https://github.com/letsloose501/Agent-Skills)** | Skills for Claude Code that I use every day |
-
-<details>
-<summary><b>По-русски</b></summary>
-
-<br/>
-
-Пишу на Python, разбираю, как устроены базы данных изнутри, и каждый день решаю алгоритмы.
-
-| | |
-|:--|:--|
-| **[algorithms](https://github.com/letsloose501/algorithms)** | Задачи с LeetCode и хендбуков. Каждое решение с идеей и асимптотикой |
-| **[Python](https://github.com/letsloose501/Python)** | База знаний: стандартная библиотека, модель данных, внутренности интерпретатора |
-| **[Agent-Skills](https://github.com/letsloose501/Agent-Skills)** | Скиллы для Claude Code, которыми пользуюсь каждый день |
-
-</details>
