@@ -28,6 +28,14 @@
 
 </div>
 
+### Method
+
+Problems live in folders by technique, not by number — what solves the same way sits together.
+
+<img src="assets/readme/method-monotonic-stack.svg" width="100%" alt="Daily Temperatures solved with a monotonic stack: index 2 holds 75 and waits until index 6 brings 76, so its answer is 6 minus 2, four days. Every index is pushed once and popped once, giving O(n) time and O(n) memory." />
+
+Every solution carries the same header — link to the problem, the idea in two lines, time and memory. [Read this one](https://github.com/letsloose501/algorithms/blob/main/monotonic-stack/0739-daily-temperatures.py)
+
 ### Repositories
 
 | | |
