@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0E0E10,65:16161A,100:E8FF4A&height=185&section=header&text=letsloose501&fontColor=F5F5F5&fontSize=56&fontAlignY=40&desc=python%20%C2%B7%20backend%20%C2%B7%20algorithms&descAlignY=60&descSize=16" width="100%" />
+<img src="assets/readme/wave-header.svg" width="100%" alt="letsloose501 — python, backend, algorithms" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=E8FF4A&center=true&vCenter=true&width=620&height=45&lines=Python+Backend;life+automation;love+for+algorithms;database+design" alt="" />
 
@@ -43,3 +43,5 @@ Every solution carries the same header — link to the problem, the idea in two 
 | **[algorithms](https://github.com/letsloose501/algorithms)** | LeetCode and handbook problems — every solution with the idea behind it and its complexity |
 | **[Python](https://github.com/letsloose501/Python)** | Knowledge base: standard library, data model, interpreter internals |
 | **[Agent-Skills](https://github.com/letsloose501/Agent-Skills)** | Skills for Claude Code that I use every day |
+
+<img src="assets/readme/wave-footer.svg" width="100%" alt="" />
