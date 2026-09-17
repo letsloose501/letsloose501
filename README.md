@@ -38,10 +38,24 @@ Every solution carries the same header — link to the problem, the idea in two 
 
 ### Repositories
 
+**Pet projects**
+
 | | |
 |:--|:--|
-| **[algorithms](https://github.com/letsloose501/algorithms)** | LeetCode and handbook problems — every solution with the idea behind it and its complexity |
-| **[Python](https://github.com/letsloose501/Python)** | Knowledge base: standard library, data model, interpreter internals |
-| **[Agent-Skills](https://github.com/letsloose501/Agent-Skills)** | Skills for Claude Code that I use every day |
+| **[kuper-prices](https://github.com/letsloose501/kuper-prices)** | Grocery prices from Kuper across every store at once, from the command line: no browser, no account. Price per kg/l/unit, sorted table |
+
+**Skills for Claude Code**
+
+| | |
+|:--|:--|
+| **[Agent-Skills](https://github.com/letsloose501/Agent-Skills)** | The index: what I build for Claude Code, each one in its own repository |
+| **[skill-lint](https://github.com/letsloose501/skill-lint)** | Integrity checker for skills: broken links, orphan files, spec violations, bloated `SKILL.md`. Python standard library only |
+
+**Knowledge bases**
+
+| | |
+|:--|:--|
+| **[algorithms](https://github.com/letsloose501/algorithms)** | LeetCode and handbook problems: every solution with the idea behind it and its complexity |
+| **[Python](https://github.com/letsloose501/Python)** | Standard library, data model, interpreter internals |
 
 <img src="assets/readme/wave-footer.svg" width="100%" alt="" />
