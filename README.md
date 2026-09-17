@@ -42,6 +42,7 @@ Every solution carries the same header — link to the problem, the idea in two 
 
 | | |
 |:--|:--|
+| **[finance-tracker](https://github.com/letsloose501/finance-tracker)** | Personal finance API on FastAPI: wallets in several currencies, income, expenses and transfers with conversion at the live rate. Layered as api → service → repository, SQLAlchemy 2.0, tests |
 | **[kuper-prices](https://github.com/letsloose501/kuper-prices)** | Grocery prices from Kuper across every store at once, from the command line: no browser, no account. Price per kg/l/unit, sorted table |
 
 **Skills for Claude Code**
